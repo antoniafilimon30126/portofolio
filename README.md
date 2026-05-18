@@ -1,36 +1,19 @@
-# QA Testing Portfolio
+# Portfolio — Antonia Filimon
 
-This repository contains examples of my work in software testing, including both manual and automated testing.
+This repository contains my work in software testing and AI prototyping.
 
-Application tested:  
-SauceDemo – https://www.saucedemo.com
+## Projects
 
-## Contents
+### [saucedemo-qa-portfolio](./saucedemo-qa-portfolio/)
 
-### Manual Testing
-- Test Cases
-- Bug Reports
-- Test Plan
+Manual and automated QA for [SauceDemo](https://www.saucedemo.com): test cases, bug reports, test plan, Selenium WebDriver tests (TestNG, Page Object Model).
 
-### Automation Testing
-- Selenium WebDriver tests
-- TestNG test framework
-- Page Object Model implementation
+### [ai-lab-prototype](./ai-lab-prototype/)
+
+FastAPI + Streamlit chat app with Hugging Face Inference API, RAG over company docs, Docker, and automated tests.
 
 ## Tools & Technologies
 
-### Manual Testing
-- Test Case Design
-- Bug Reporting
-
-### Automation Testing
-- Java
-- Selenium WebDriver
-- TestNG
-- Page Object Model (POM)
-
-### Development Tools
-- IntelliJ IDEA
-- Git
-- GitHub
-- Google Chrome
+- Manual & automated testing (Selenium, Java, TestNG)
+- Python, FastAPI, Streamlit, Docker
+- Git, GitHub

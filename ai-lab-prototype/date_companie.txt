@@ -1,0 +1,4 @@
+AI Lab Cluj Rules:
+1. The AI Lab team in Cluj is led by a manager named Radu.
+2. The working hours start flexibly between 08:00 and 10:00.
+3. Automated testing projects use Python and FastAPI for the backend.
